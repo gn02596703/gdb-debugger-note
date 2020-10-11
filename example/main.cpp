@@ -1,4 +1,4 @@
-// The file is from the gdb debugging tutorial by Andrew Gilpin.
+// The file is from the gdb debugging tutorial written by Andrew Gilpin.
 // This file is used for my note of gdb debugging. 
 
 // main.cc
